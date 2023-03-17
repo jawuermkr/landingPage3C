@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+/* font-family: 'Source Sans Pro', sans-serif; */
+
+p, h1, h2, h3, h4, h5 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.rojo {
+  background:#a21c26;
+  color:#ffffff;
+}
+.rojo-text {
+  color:#a21c26;
+}
+.verde {
+  background:#348b48;
+  color:#ffffff;
+}
+.verde-text {
+  color:#348b48;
+}
+.azul {
+  background:#009cdf;
+  color:#ffffff;
+}
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+/* COLORES
+
+#a21c26 ROJO
+#348b48 VERDE
+#009cdf AZUL
+#000000 NEGRO
+
+*/
+
